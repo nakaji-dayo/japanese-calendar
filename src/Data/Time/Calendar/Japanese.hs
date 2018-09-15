@@ -26,7 +26,7 @@ fromDay day
       let (y', _, _) = C.toGregorian s
       in Day g (y - y' + 1) m d
 
--- ^
+-- |
 -- Wareki to Data.Time.Calendar.Day.
 toDay :: Day -> C.Day
 toDay (Day g y m d) = C.fromGregorian (y + y' - 1) m d
