@@ -22,7 +22,7 @@ library
 
 source-repository head
   type:     git
-  location: https://github.com/githubuser/japanese-calendar
+  location: https://github.com/nakaji-dayo/japanese-calendar
 
 test-suite japanese-calendar-test
   type:                exitcode-stdio-1.0
