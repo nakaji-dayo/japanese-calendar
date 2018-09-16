@@ -1,5 +1,5 @@
 name:                japanese-calendar
-version:             0.1.0.1
+version:             0.1.0.2
 synopsis: Data type of Japanese Calendar (Wareki).
 -- description:
 homepage:            https://github.com/nakaji-dayo/japanese-calendar#readme
